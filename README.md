@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Scott Lin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-### 📊 GitHub Stats / 帳號統計
+### 🚀 我的 GitHub 數據
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=scott0127&show_icons=true&theme=visual_studio_code" alt="Scott's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scott0127&layout=compact&theme=visual_studio_code" alt="Top Languages" />
-</p>
+![GitHub Stars](https://img.shields.io/github/stars-PR/scott0127?style=for-the-badge&color=ffd700&label=STARS)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scott0127&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
