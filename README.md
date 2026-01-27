@@ -3,8 +3,8 @@
 
 ### 🚀 我的 GitHub 數據
 
-![GitHub Stars](https://img.shields.io/github/stars-PR/scott0127?style=for-the-badge&color=ffd700&label=STARS)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scott0127&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scott0127&show_icons=true&theme=radical&hide_rank=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
