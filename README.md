@@ -41,7 +41,18 @@
 </p>
 
 ---
+### 🏆 Featured Project: Pikmin Bloom Tool
+一個為 Pikmin Bloom 社群互動交流，以及透過osm map來幫助使用者找到想要的皮克敏的工具網頁
 
+* **📈 User Impact**: 累積超過 **150,000+** 次網頁瀏覽，受社群使用者信任。
+* **🔍 SEO Excellence**: 關鍵字「皮克敏地圖」搜尋結果 **Top 2**。
+* **⚡ High Performance**: 穩定支撐單日最高 **800,000+** 次後端請求 (Database/Auth Requests)，並透過切分地理區塊與Service Worker來降低server output流量。
+* **🛠 Tech Stack**: Vue.js, TypeScript, Node.js, supabase.
+
+<p align="left">
+  <img width="601" height="517" alt="image" src="https://github.com/user-attachments/assets/0481f5ba-ba2c-4afc-9d6c-9fa50160370a" />
+
+</p>
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/林凱彬" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="林凱彬" height="30" width="40" /></a>
