@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=scott0127&label=Profile%20views&color=0e75b6&style=flat-square" alt="scott0127" />
-  <img src="https://img.shields.io/badge/Stars-46-yellow?style=flat-square&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Stars-73-yellow?style=flat-square&logo=github" alt="Total Stars" />
 </p>
 
 ---
