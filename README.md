@@ -1,77 +1,289 @@
-# 👋 哈囉，我是 Scott (scott0127)
+# 👋 哈囉，我是 Scott（scott0127）
 
-一個就讀於 **國立中正大學資訊工程研究所 (CCU CSIE)** 的資訊工程碩士研究生。
-目前正致力於提升開發技能，並積極參與開發。
+我目前就讀於 **國立中正大學資訊工程研究所（CCU CSIE）**，是一名資訊工程碩士研究生。  
+我的開發經驗涵蓋 **全端開發、AI / LLM 應用、GraphRAG / RAG、嵌入式系統、DevOps 與雲端部署**。
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=scott0127&label=Profile%20views&color=0e75b6&style=flat-square" alt="scott0127" />
-  <img src="https://img.shields.io/badge/Stars-73-yellow?style=flat-square&logo=github" alt="Total Stars" />
+我喜歡從真實使用者需求出發，透過軟體工程與 AI 技術解決具體問題。  
+目前主要關注 **LLM Workflow、GraphRAG、全端系統架構、Edge AI、Kubernetes / Docker 部署** 等方向。
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=scott0127&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/scott0127?label=Stars&style=flat&color=yellow" alt="GitHub Stars" />
 </p>
 
 ---
 
+## 🚀 About Me
 
-### 🛠 Languages and Tools:
-
-**Languages**
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-</p>
-
-**Frontend & Desktop**
-<p align="left">
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
-  <a href="https://nuxtjs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/></a>
-</p>
-
-**Backend & Database**
-<p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a>
-</p>
-
-**DevOps & Cloud**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
-</p>
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scott0127&show_icons=true&theme=radical&hide_rank=true" alt="scott0127 stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scott0127&show_icons=true&locale=en&layout=compact&theme=radical" alt="scott0127 top langs" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scott0127&theme=radical" alt="scott0127 streak" />
-</p>
+- 🎓 M.S. student in Computer Science and Information Engineering at **National Chung Cheng University**
+- 🏆 1st Place, **2024 National University Smart Innovation and Interdisciplinary Integration Competition**
+- 🧠 Interested in **LLM, GraphRAG, RAG, Agentic Workflow, Computer Vision, and Full-stack Development**
+- 🛠️ Experienced in building systems from frontend, backend, database, deployment, to edge devices
+- 🌏 Built and operated a real-world web tool with thousands of registered users
+- 📚 Passionate about turning technical ideas into useful, user-centered applications
 
 ---
-### 🏆 Featured Project: Pikmin Bloom Tool
-一個為 Pikmin Bloom 社群互動交流，以及透過osm map來幫助使用者找到想要的皮克敏的工具網頁
 
-* **📈 User Impact**: 累積超過 **150,000+** 次網頁瀏覽，受社群使用者信任。
-* **🔍 SEO Excellence**: 關鍵字「皮克敏地圖」搜尋結果 **Top 2**。
-* **⚡ High Performance**: 穩定支撐單日最高 **800,000+** 次後端請求 (Database/Auth Requests)，並透過切分地理區塊與Service Worker來降低server output流量。
-* **🛠 Tech Stack**: Vue.js, TypeScript, Node.js, supabase.
+## 🛠️ Languages and Tools
 
-<p align="left">
-  <img width="601" height="517" alt="image" src="https://github.com/user-attachments/assets/0481f5ba-ba2c-4afc-9d6c-9fa50160370a" />
+### Languages
 
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
+
+### Frontend & Desktop
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="45" height="45" alt="Electron" />
+      <br>Electron
+    </td>
+  </tr>
+</table>
+
+### Backend & Database
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+</table>
+
+### AI / Machine Learning / Edge AI
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="45" height="45" alt="NVIDIA Jetson" />
+      <br>Jetson
+    </td>
+  </tr>
+</table>
+
+### DevOps & Platforms
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes" />
+      <br>K8S
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Technical Focus
+
+### LLM / RAG / Agentic Workflow
+
+- Built LLM workflows for long-form lecture content processing
+- Worked with **GraphRAG / RAG** to improve knowledge retrieval and reduce hallucination
+- Designed pipeline-style AI workflows for summarization, chapter segmentation, and educational assistant systems
+- Interested in **Multi-Agent Systems**, prompt engineering, and AI-powered learning tools
+
+### Full-stack Development
+
+- Frontend: **Nuxt 3, Vue.js, TypeScript, Tailwind CSS**
+- Backend: **FastAPI, NestJS, Node.js**
+- Database: **PostgreSQL, MySQL, Redis, Supabase**
+- Deployment: **Docker, Kubernetes, Nginx, GCP, Render**
+
+### Edge AI / Embedded Systems
+
+- Experience with **NVIDIA Jetson Nano**
+- Worked on computer vision, image processing, object detection, OCR, and edge deployment
+- Used YOLOv8, PaddleOCR, ONNX / TensorRT-related deployment concepts
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 IntelliTeach — AI-integrated Smart Learning Platform
+
+**IntelliTeach** is a smart learning platform integrating **Edge AI, LLM, GraphRAG, and embedded classroom devices**.  
+The system solves the problem of preserving physical blackboard content and helping students review long lecture videos more efficiently.
+
+Key features:
+
+- Built a distributed system combining frontend, backend, cloud GPU resources, and embedded devices
+- Used **NVIDIA Jetson Nano** for edge-side computer vision processing
+- Implemented blackboard image processing, silhouette removal, and perspective transformation
+- Designed an LLM workflow for long lecture transcripts and course material processing
+- Applied **GraphRAG** to build structured course knowledge and power an AI teaching assistant
+- Containerized services using **Docker** and deployed with **Kubernetes**
+- Won **1st Place** in the 2024 National University Smart Innovation and Interdisciplinary Integration Competition
+
+Tech stack:
+
+`Nuxt 3` `FastAPI` `Python` `Docker` `Kubernetes` `GraphRAG` `LLM` `NVIDIA Jetson Nano` `Computer Vision`
+
+---
+
+### 🌱 Pikmin Bloom Collection Tracker / Map Tool
+
+A web tool built for the **Pikmin Bloom** player community, focused on decoration collection tracking and map-based discovery.
+
+Key features:
+
+- Built with **Nuxt 3** and backend services
+- Integrated map data and filtering logic for decoration discovery
+- Used service workers and data-splitting strategies to reduce server output traffic
+- Improved SEO and achieved strong Google Search visibility for related keywords
+- Operated as a real-world user-facing tool with thousands of registered users
+
+Tech stack:
+
+`Nuxt 3` `Vue.js` `TypeScript` `Supabase` `PostgreSQL` `Service Worker` `SEO` `Map Data`
+
+---
+
+### 🚦 WalkerGuard — Pedestrian Safety Violation Detection System
+
+WalkerGuard is an embedded AI system designed to improve pedestrian safety by detecting vehicle violations near intersections.
+
+Key features:
+
+- Used **YOLOv8** for vehicle detection
+- Applied OCR for license plate recognition
+- Designed violation detection logic based on traffic rules
+- Deployed on **NVIDIA Jetson Nano** for edge computing
+- Worked with multi-view tracking and high-speed plate capture concepts
+
+Tech stack:
+
+`Python` `YOLOv8` `PaddleOCR` `NVIDIA Jetson Nano` `Computer Vision` `Edge AI`
+
+---
+
+### 🏛️ HistoSphere — Multi-Agent Historical Learning System
+
+HistoSphere is an AI-powered interactive learning system that allows users to explore historical events through conversations with AI-generated historical figures.
+
+Key features:
+
+- Designed a **Multi-Agent System** for historical character responses
+- Built workflow pipelines for historical data collection, crawling, and RAG
+- Used multimodal generation to create historical scenes with consistent visual style
+- Integrated educational psychology concepts such as scaffolding and cognitive load reduction
+
+Tech stack:
+
+`Nuxt 3` `Python` `Docker` `Nginx` `RAG` `Multi-Agent System` `LLM Workflow` `Playwright`
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place**, 2024 National University Smart Innovation and Interdisciplinary Integration Competition
+- 🎓 Received academic excellence awards during undergraduate study
+- 📈 Built and operated a real-world web service with strong SEO visibility and thousands of users
+- 👨‍🏫 Experience teaching C++, AI fundamentals, and Python programming
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=scott0127&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-### 📫 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/林凱彬" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="林凱彬" height="30" width="40" /></a>
-<a href="https://instagram.com/lin_michi1928" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lin_michi1928" height="30" width="40" /></a>
+
+<p>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=scott0127&theme=flat&no-frame=true&margin-w=8"
+    alt="GitHub Trophy"
+  />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/scott5497"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scott5497" /></a></p>
+## 📫 Contact
+
+<p>
+  <a href="https://github.com/scott0127">
+    <img src="https://img.shields.io/badge/GitHub-scott0127-181717?style=flat&logo=github" alt="GitHub" />
+  </a>
+</p>
