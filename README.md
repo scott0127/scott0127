@@ -264,20 +264,45 @@ Tech stack:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights & Open Source Impact
 
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=scott0127&hide_border=true"
-    alt="GitHub Streak"
-  />
+### 📈 GitHub Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scott0127&theme=github" alt="GitHub Profile Details" />
 </p>
 
-<p>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=scott0127&theme=flat&no-frame=true&margin-w=8"
-    alt="GitHub Trophy"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=scott0127&theme=github" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scott0127&theme=github&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scott0127&theme=github" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scott0127&theme=github" alt="Most Commit Language" />
+</p>
+
+---
+
+### 🌟 Open Source Impact
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/scott0127?label=Total%20GitHub%20Stars&style=for-the-badge&logo=github&color=yellow" alt="Total GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/scott0127?label=GitHub%20Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge&logo=github" alt="Open Source Contributor" />
+</p>
+
+- ⭐ Earned GitHub stars across personal projects, showing real-world project visibility and usefulness
+- 🔀 Contributed pull requests to external open-source projects
+- 🤝 Became a contributor to an open-source project with **1.1k+ GitHub stars**
+- 🧩 Experienced in collaborating with existing codebases, following project conventions, and contributing production-ready changes
+
+---
+
+### 📉 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scott0127&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ## 📫 Contact
